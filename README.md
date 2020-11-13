@@ -1,5 +1,5 @@
 # NYT on Pi
-> New York Times on Raspberry Pi.
+> Show the New York Times frontpage on an external screen.
 
 Inspired by this post on Hacker News: [An updated daily front page of The New York Times as artwork on your wall ](https://news.ycombinator.com/item?id=25063726)
 
